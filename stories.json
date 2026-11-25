@@ -1,0 +1,425 @@
+{
+ "date": "2026-11-24",
+ "date_check": "Left out because they happened on earlier days: Merkury sinking + Nvidia's +31.5% surge (Mon) · EU 22nd sanctions unveiled (Mon) · COP31 collapse (Sun) · Sparta II hit (Sat — today: Kyiv's confirmation) · Villavicencio bomb (Mon night local — today: toll 23, president's visit) · Guterres AI-safety call (Mon). Not yet: Sudan talks Wed 25 Nov · PCE inflation Wed 25 Nov · EU leaders' summit Thu 26 Nov.",
+ "day": "Tuesday 24 November 2026",
+ "numbers": [
+  [
+   "11",
+   "wounded in Riyadh tower strike"
+  ],
+  [
+   "$240bn",
+   "Nvidia value wiped on Tuesday"
+  ],
+  [
+   "700,000",
+   "Russian soldiers killed, tally says"
+  ],
+  [
+   "23",
+   "injured in Colombia car bomb"
+  ],
+  [
+   "$41bn",
+   "Sanofi's deal for Insmed"
+  ],
+  [
+   "1–0",
+   "Senegal's AFCON final score"
+  ]
+ ],
+ "press_time": "23:00 UTC",
+ "sources_line": "Sources: Reuters · AP · AFP · BBC · Al Jazeera · Kyiv Independent · CAS · UN News · Global Times — every story first reported Tuesday 24 November 2026 (UTC), press time 23:00 UTC. Scenes are drawn illustrations, not photographs.",
+ "stories": [
+  {
+   "body": "11 wounded at KAFD tower; second hit in five days.",
+   "certainty": "REPORTED",
+   "headline": "Houthi missile hits Riyadh's tallest tower",
+   "kind": "lead",
+   "lat": 24.7,
+   "lon": 46.7,
+   "n": 1,
+   "place": "RIYADH, SAUDI ARABIA",
+   "region": "Middle East",
+   "source": "AP · Al Arabiya"
+  },
+  {
+   "body": "Shares fall 5.9% to $155.38; S&P −0.5%, Nasdaq −1.5%.",
+   "certainty": "CONFIRMED",
+   "headline": "Nvidia gives back $240bn as AI rally fizzles",
+   "kind": "lead",
+   "lat": 40.7,
+   "lon": -74.0,
+   "n": 2,
+   "place": "NEW YORK, USA",
+   "region": "North America",
+   "source": "AP · Motley Fool"
+  },
+  {
+   "body": "Overnight hit on apartment block; four children hurt.",
+   "certainty": "REPORTED",
+   "headline": "Russian strike kills 2, wounds 40 in Zaporizhzhia",
+   "kind": "lead",
+   "lat": 47.8,
+   "lon": 35.2,
+   "n": 3,
+   "place": "ZAPORIZHZHIA, UKRAINE",
+   "region": "Europe",
+   "source": "Kyiv Independent · AP"
+  },
+  {
+   "body": "Court overturns CAF forfeit; 1–0 win stands.",
+   "certainty": "CONFIRMED",
+   "headline": "CAS gives Senegal its AFCON title",
+   "kind": "medium",
+   "lat": 14.7,
+   "lon": -17.4,
+   "n": 4,
+   "place": "LAUSANNE · DAKAR",
+   "region": "Africa",
+   "source": "CAS · Reuters"
+  },
+  {
+   "body": "Rutte: alliance will defend every inch.",
+   "certainty": "CONFIRMED",
+   "headline": "NATO vows to defend space",
+   "kind": "medium",
+   "lat": 50.8,
+   "lon": 4.4,
+   "n": 5,
+   "place": "BRUSSELS, BELGIUM",
+   "region": "Europe",
+   "source": "BBC"
+  },
+  {
+   "body": "Moscow: closing crossings means open war.",
+   "certainty": "CLAIM",
+   "headline": "Russia warns Estonia of war",
+   "kind": "medium",
+   "lat": 59.4,
+   "lon": 24.7,
+   "n": 6,
+   "place": "TALLINN, ESTONIA",
+   "region": "Europe",
+   "source": "Reuters"
+  },
+  {
+   "body": "Meduza tally from leaked Rosstat data.",
+   "certainty": "REPORTED",
+   "headline": "700,000 Russian troops killed",
+   "kind": "medium",
+   "lat": 55.8,
+   "lon": 37.6,
+   "n": 7,
+   "place": "MOSCOW, RUSSIA",
+   "region": "Europe",
+   "source": "Meduza · RFE/RL"
+  },
+  {
+   "body": "Qatar PM in White House Iran talks.",
+   "certainty": "REPORTED",
+   "headline": "Vance, Rubio meet Qatari PM",
+   "kind": "medium",
+   "lat": 38.9,
+   "lon": -77.0,
+   "n": 8,
+   "place": "WASHINGTON, USA",
+   "region": "North America",
+   "source": "AP"
+  },
+  {
+   "body": "Dollar hits 2.82m rials on black market.",
+   "certainty": "CONFIRMED",
+   "headline": "Iran's rial plunges on sanctions",
+   "kind": "medium",
+   "lat": 35.7,
+   "lon": 51.4,
+   "n": 9,
+   "place": "TEHRAN, IRAN",
+   "region": "Middle East",
+   "source": "AFP"
+  },
+  {
+   "body": "Seoul summons Russian attaché in protest.",
+   "certainty": "CONFIRMED",
+   "headline": "Russian jets enter Korean zone",
+   "kind": "medium",
+   "lat": 37.5,
+   "lon": 127.0,
+   "n": 10,
+   "place": "SEOUL, SOUTH KOREA",
+   "region": "East Asia",
+   "source": "AFP"
+  },
+  {
+   "body": "Chen Jining probed for graft, Beijing says.",
+   "certainty": "CONFIRMED",
+   "headline": "China probes Politburo member",
+   "kind": "medium",
+   "lat": 31.2,
+   "lon": 121.5,
+   "n": 11,
+   "place": "SHANGHAI, CHINA",
+   "region": "East Asia",
+   "source": "Reuters"
+  },
+  {
+   "body": "First ally to plug into battlefield AI.",
+   "certainty": "CONFIRMED",
+   "headline": "Germany gets Ukraine's Delta",
+   "kind": "medium",
+   "lat": 52.5,
+   "lon": 13.4,
+   "n": 12,
+   "place": "BERLIN, GERMANY",
+   "region": "Europe",
+   "source": "Kyiv Independent"
+  },
+  {
+   "body": "Baghdad takes fields in four provinces.",
+   "certainty": "CONFIRMED",
+   "headline": "Iraq seizes Kurdish oilfields",
+   "kind": "medium",
+   "lat": 33.3,
+   "lon": 44.4,
+   "n": 13,
+   "place": "BAGHDAD, IRAQ",
+   "region": "Middle East",
+   "source": "Reuters"
+  },
+  {
+   "body": "WHO staff shelter in Ituri hospital.",
+   "certainty": "CONFIRMED",
+   "headline": "Fighting traps Ebola medics",
+   "kind": "medium",
+   "lat": 1.7,
+   "lon": 30.0,
+   "n": 14,
+   "place": "ITURI, DR CONGO",
+   "region": "Africa",
+   "source": "UN News · WHO"
+  },
+  {
+   "body": "Court wipes separatist leader's charges.",
+   "certainty": "CONFIRMED",
+   "headline": "Spain amnesties Puigdemont",
+   "kind": "medium",
+   "lat": 40.4,
+   "lon": -3.7,
+   "n": 15,
+   "place": "MADRID, SPAIN",
+   "region": "Europe",
+   "source": "Reuters"
+  },
+  {
+   "body": "Four figures hit over torture, rape.",
+   "certainty": "CONFIRMED",
+   "headline": "UK sanctions Houthi leaders",
+   "kind": "medium",
+   "lat": 51.5,
+   "lon": -0.1,
+   "n": 16,
+   "place": "LONDON, UK",
+   "region": "Europe",
+   "source": "Reuters"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Hasina plans December return to Bangladesh",
+   "n": 17,
+   "place": "DHAKA",
+   "region": "South Asia",
+   "source": "Reuters"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Car bomb injures 23 in Colombia",
+   "n": 18,
+   "place": "VILLAVICENCIO",
+   "region": "Latin America",
+   "source": "AP · Reuters"
+  },
+  {
+   "certainty": "CONFIRMED",
+   "headline": "Australia sets 46 AI rules",
+   "n": 19,
+   "place": "CANBERRA",
+   "region": "Oceania",
+   "source": "Digital Watch"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Pope Francis diary details spiritual crisis",
+   "n": 20,
+   "place": "VATICAN CITY",
+   "region": "World",
+   "source": "AP"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Rep. Gomez resigns after ethics findings",
+   "n": 21,
+   "place": "WASHINGTON",
+   "region": "North America",
+   "source": "AP"
+  },
+  {
+   "certainty": "CONFIRMED",
+   "headline": "Seoul offers $375,000 to catch AI exam cheats",
+   "n": 22,
+   "place": "SEOUL",
+   "region": "East Asia",
+   "source": "AP"
+  },
+  {
+   "certainty": "CLAIM",
+   "headline": "Russia rejects Article 5-style guarantees",
+   "n": 23,
+   "place": "MOSCOW",
+   "region": "Europe",
+   "source": "ISW"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Zelensky: seek more US aid if deal fails",
+   "n": 24,
+   "place": "KYIV",
+   "region": "Europe",
+   "source": "Reuters"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Kushner urged Trump: don't press Zelensky",
+   "n": 25,
+   "place": "WASHINGTON",
+   "region": "North America",
+   "source": "AP"
+  },
+  {
+   "certainty": "CONFIRMED",
+   "headline": "Ukraine confirms drone hit on Sparta II",
+   "n": 26,
+   "place": "KYIV",
+   "region": "Europe",
+   "source": "Kyiv Independent"
+  },
+  {
+   "certainty": "CONFIRMED",
+   "headline": "UN urges probe into Benghazi port attacks",
+   "n": 27,
+   "place": "TRIPOLI",
+   "region": "Middle East",
+   "source": "UN News"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Israeli strikes kill six in Gaza",
+   "n": 28,
+   "place": "GAZA",
+   "region": "Middle East",
+   "source": "Reuters"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "UAE bus crash kills 13, injures 14",
+   "n": 29,
+   "place": "RAS AL KHAIMAH",
+   "region": "Middle East",
+   "source": "AP"
+  },
+  {
+   "certainty": "CONFIRMED",
+   "headline": "China launches 6G pilots in eight regions",
+   "n": 30,
+   "place": "BEIJING",
+   "region": "East Asia",
+   "source": "Global Times"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Trump's Nvidia stake gained up to $15m",
+   "n": 31,
+   "place": "WASHINGTON",
+   "region": "North America",
+   "source": "FT"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Amazon buys Decart AI tech in $7.5bn deal",
+   "n": 32,
+   "place": "SEATTLE",
+   "region": "North America",
+   "source": "CNBC"
+  },
+  {
+   "certainty": "CONFIRMED",
+   "headline": "Sanofi buys Insmed for $41bn",
+   "n": 33,
+   "place": "PARIS",
+   "region": "Europe",
+   "source": "Reuters"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "UK warns firms aiding Ukraine of sabotage",
+   "n": 34,
+   "place": "LONDON",
+   "region": "Europe",
+   "source": "AP"
+  },
+  {
+   "certainty": "CONFIRMED",
+   "headline": "Court backs migrant expulsions in crises",
+   "n": 35,
+   "place": "STRASBOURG",
+   "region": "Europe",
+   "source": "ECHR"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Meta brings Muse AI into Instagram DMs",
+   "n": 36,
+   "place": "MENLO PARK",
+   "region": "North America",
+   "source": "TechCrunch"
+  },
+  {
+   "certainty": "REPORTED",
+   "headline": "Uber, Nuro start driverless Lucid robotaxis",
+   "n": 37,
+   "place": "SAN FRANCISCO",
+   "region": "North America",
+   "source": "TechCrunch"
+  },
+  {
+   "certainty": "CONFIRMED",
+   "headline": "Australia, Greens agree digital duty of care",
+   "n": 38,
+   "place": "SYDNEY",
+   "region": "Oceania",
+   "source": "Digital Watch"
+  }
+ ],
+ "timeline": [
+  [
+   "09:40",
+   "Kushner: don't press Zelensky"
+  ],
+  [
+   "10:13",
+   "Nasdaq futures slide"
+  ],
+  [
+   "13:12",
+   "Zelensky warns deal may fail"
+  ],
+  [
+   "13:15",
+   "Colombia toll 23"
+  ],
+  [
+   "21:29",
+   "Nvidia closes −5.9%"
+  ]
+ ]
+}
